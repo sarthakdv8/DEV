@@ -1,0 +1,5 @@
+Compute three moving averages of 20, 40, and 80.
+Go long when the price crosses above all three moving averages.
+Exit the long position when the price crosses below any of the three moving averages.
+Go short when the price crosses below all three moving averages.
+Exit the short position when the price crosses above any of the three moving averages.
